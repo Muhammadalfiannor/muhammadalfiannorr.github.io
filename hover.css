@@ -1,0 +1,4 @@
+
+#menu ul li:hover ul, #menu ul a:hover ul{
+    visibility:visible;
+    }

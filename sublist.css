@@ -1,0 +1,4 @@
+#menu ul ul{
+    visibility: hidden;/*Menyembunyikan element*/
+    width: 150px;
+}
